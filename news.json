@@ -1,41 +1,31 @@
 [
-   {
+{
 
-        "image" : "https://cdn.glitch.global/ff74309b-90b3-4d0b-a1e7-64205e90664f/1720361616469.jpg?v=1720361641785)
+        "image" : "https://cdn.glitch.global/0e755e91-6d77-4c3c-82da-0c9a085d7074/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F13_20241207230857.png?v=1733606913165",
 
-",
-
-        "title" : "добавлен новая система Дуэль от Кизару"
+        "title" : "Добавлена Дуэль"
 
    },
 
-    {
+   {
 
-        "image" : "https://cdn.glitch.global/01d71b35-f67a-4ec8-8618-d490d2a7ad64/1720371081629.jpg?v=1720371209828)
+        "image" : "https://cdn.glitch.global/01d71b35-f67a-4ec8-8618-d490d2a7ad64/1720371081629.jpg?v=1720371209828",
 
-",
-
-        "title" : "добавлен новый бизнес Мотосалон"
+        "title" : "добавлен  Мотосалон"
 
    },
-   
+
    {
-      
 
-        "image" : "https://cdn.glitch.global/ff74309b-90b3-4d0b-a1e7-64205e90664f/1720361616469.jpg?v=1720361641785)
-
-",
+        "image" : "https://cdn.glitch.global/ff74309b-90b3-4d0b-a1e7-64205e90664f/1720361616469.jpg?v=1720361641785",
 
         "title" : "новая система гонки"
-у"
 
    },
-   
+
    {
 
-        "image" : "https://cdn.glitch.global/848a65f3-98a1-4b59-b0bb-254b860dfe3e/scale_1200.png?v=1709655219637
-
-",
+        "image" : "https://cdn.glitch.global/848a65f3-98a1-4b59-b0bb-254b860dfe3e/scale_1200.png?v=1709655219637",
 
         "title" : "Обновлен сам лаунчер"
 
@@ -43,12 +33,18 @@
 
    {
 
-        "image" : "https://cdn.glitch.global/848a65f3-98a1-4b59-b0bb-254b860dfe3e/IMG_20240305_185018.jpg?v=1709653830975)
-
-",
+        "image" : "https://cdn.glitch.global/848a65f3-98a1-4b59-b0bb-254b860dfe3e/IMG_20240305_185018.jpg?v=1709653830975",
 
         "title" : "было добавлено весна"
 
+   },
+
+   {
+
+        "image" : "https://i.ytimg.com/vi/W5D4ZS5bEAA/maxresdefault.jpg",
+
+        "title" : "MARTINI BONUS"
+
    }
-   
+
 ]
